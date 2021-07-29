@@ -1,0 +1,23 @@
+# Written by MakeHuman master:e68a086d
+version v1.2.0
+camera 0.0 270.5 0.48640514176775673 0.5681298500463221 -0.3131924839853379 1.0624999999999996
+modifier breast/BreastSize 0.573000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+hair Hair_bun_brown 9bf96086-aaa0-4a13-9d83-71b6c4b4732a
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes short_tail_camo_tee b5c5efbe-18f7-426a-a046-ade069f0a30e
+clothes Tier_Skirt e7d99ba8-0383-4943-b7e2-43de6eb6a6c1
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material Hair_bun_brown 9bf96086-aaa0-4a13-9d83-71b6c4b4732a hair_bun_brown.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
